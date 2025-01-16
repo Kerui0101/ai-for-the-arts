@@ -2,10 +2,8 @@
 A short paragraph describing the purpose of your repository.
 
 
-A bulleted list of goals (e.g., - Learn GitHub basics)
-> #### The quarterly results look great!
->
+The list of goals
+> - Learn GitHub basics
 > - Revenue was off the chart.
 > - Profits were higher than ever.
->
 >  *Everything* is going according to **plan**.
