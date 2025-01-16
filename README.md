@@ -1,2 +1,2 @@
 # ai-for-the-arts
-## [Week 1](Week1.md)  
+## [Week1](Week1.md)  
