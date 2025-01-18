@@ -1,9 +1,10 @@
 # AI for the Arts and Humanities Portfolio
-A short paragraph describing the purpose of your repository.
 
+### Repository Purpose
+This repository is dedicated to learning and applying GitHub concepts while fostering continuous improvement in project management and team collaboration. It aims to enhance technical proficiency and create a strong foundation for effective version control.
 
-The list of goals
-> - Learn GitHub basics
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->  *Everything* is going according to **plan**.
+### Goals
+* Master the fundamentals of GitHub.
+* Drive exceptional revenue growth.
+* Surpass previous profit records.
+* Maintain alignment with the **strategy** for success.
