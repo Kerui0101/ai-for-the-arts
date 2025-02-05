@@ -1,8 +1,7 @@
 # AI for the Arts and Humanities Portfolio
 
 ### Repository Purpose
-This repository is dedicated to learning and applying GitHub concepts while fostering continuous improvement in project management and team collaboration. It aims to enhance technical proficiency and create a strong foundation for effective version control.
-
+This repository documents my journey in the AI for the Arts and Humanities course, focusing on learning to read and interpret Python code, explore AI-assisted programming, and critically engage with machine learning concepts. It includes coding exercises, data analysis tasks, reflections on AI ethics, and a creative AI application design. The goal is to bridge technology and the humanities, showcasing how AI can enhance engagement, learning, and inclusion.
 ### Key Learning Outcomes
 1. Understand Python for AI & Humanities
    - Learn to read and interpret Python code rather than writing it from scratch.  
