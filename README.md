@@ -13,8 +13,8 @@ The repository combines practical coding work with **critical reflections on the
 | File | Description |
 |---|---|
 | `Coding_Exercises_Notebook.ipynb` | Contains Weeks 1-5 Python programming exercises, media embedding tasks, and data exploration work. Includes Copilot logs, peer discussion records, and personal reflections. |
-| `Creative_LLM_Design (1).ipynb` | A comprehensive creative design notebook exploring the application of Large Language Models (LLMs) for enhancing learning, engagement, and inclusivity through interactive media design. |
-| `Creative_Design_Notebook_Enhanced (1).ipynb` | Enhanced creative design notebook including additional functionalities, refined interaction flow, and deeper critical reflections on ethical and cultural considerations. |
+| `Creative_LLM_Design.ipynb` | A comprehensive creative design notebook exploring the application of Large Language Models (LLMs) for enhancing learning, engagement, and inclusivity through interactive media design. |
+| `Creative_Design_Notebook_Enhanced.ipynb` | Enhanced creative design notebook including additional functionalities, refined interaction flow, and deeper critical reflections on ethical and cultural considerations. |
 
 ---
 
